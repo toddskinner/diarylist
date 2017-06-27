@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "749107985953",
+    "firebase_url": "https://diarylist-36681.firebaseio.com",
+    "project_id": "diarylist-36681",
+    "storage_bucket": "diarylist-36681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749107985953:android:131d7695e585b2a3",
+        "android_client_info": {
+          "package_name": "com.example.android.diarylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749107985953-9nkoahjh1h3ptmvn8etue0nert9pg92t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADlh3C6RU_hfyXWqNHX4HDn9AwFf_BeI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
